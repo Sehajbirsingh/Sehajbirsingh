@@ -22,15 +22,6 @@ I'm a passionate Data Engineer with a strong background in computer science and 
 - Developed sales KPIs using SQL, Python, and Snowflake
 - Automated data migration processes using Python scripts and Azure Blob storage
 
-## 🛠️ Projects
-
-### [CHESS-WINNER-PREDICTOR](https://github.com/Sehajbirsingh/Chess-winner-prediction)
-- Implemented machine learning models (Random Forest, Gradient Boosting, SVM) with Azure ML service
-- Utilized Python, scikit-learn, TensorFlow for model implementation
-
-### [BLOCK-VOTE](https://github.com/Sehajbirsingh/BlockVote_Dapp)
-- Developed a blockchain-based e-voting platform using Node.js, Express, and Ethereum
-- Implemented smart contracts with Solidity for secure voting
 
 ## 🎓 Education
 
