@@ -24,7 +24,7 @@ I'm a passionate Data Engineer with a strong background in computer science and 
 
 ## 🛠️ Projects
 
-### [Ohttps://github.com/Sehajbirsingh/Chess-winner-prediction)
+### [https://github.com/Sehajbirsingh/Chess-winner-prediction)
 - Implemented machine learning models (Random Forest, Gradient Boosting, SVM) with Azure ML service
 - Utilized Python, scikit-learn, TensorFlow for model implementation
 
