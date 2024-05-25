@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-I'm Sehajbir Singh, a passionate Data Engineer with a strong background in computer science and engineering. I am always seeking innovative and challenging opportunities to contribute towards organizational growth.
+I'm a passionate Data Engineer with a strong background in computer science and engineering. I am always seeking innovative and challenging opportunities to contribute towards organizational growth.
 
 ## 💼 Experience
 
