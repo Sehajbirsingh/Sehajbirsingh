@@ -24,11 +24,11 @@ I'm Sehajbir Singh, a passionate Data Engineer with a strong background in compu
 
 ## 🛠️ Projects
 
-### [Online Chess Game Winner Predictor](https://github.com/Sehajbirsingh/chess-winner-predictor)
+### [Ohttps://github.com/Sehajbirsingh/Chess-winner-prediction)
 - Implemented machine learning models (Random Forest, Gradient Boosting, SVM) with Azure ML service
 - Utilized Python, scikit-learn, TensorFlow for model implementation
 
-### [BLOCK-VOTE](https://github.com/Sehajbirsingh/block-vote)
+### [BLOCK-VOTE](https://github.com/Sehajbirsingh/BlockVote_Dapp)
 - Developed a blockchain-based e-voting platform using Node.js, Express, and Ethereum
 - Implemented smart contracts with Solidity for secure voting
 
