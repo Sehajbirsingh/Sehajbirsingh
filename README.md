@@ -13,7 +13,7 @@ I'm a passionate Data Engineer with a strong background in computer science and 
 
 ## 💼 Experience
 
-**Associate Data Engineer – CLOUDEQS** (AUG - Present)  
+**Associate Data Engineer – CLOUDEQS** (AUG,2023 - JUL,2024)  
 - Utilizing ELT tools such as Matillion and DBT
 - Contributed to data migration projects including Peets Coffee acquisition of Stumptown Coffee
 - Engaged with cross-functional teams for ETL process development
