@@ -3,9 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sehajbir-singh-542b34207/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Sehajbirsingh)
 
-📍 Brampton, ON  
+📍 Toronto, ON  
 📧 [sehajbakshi12@gmail.com](mailto:sehajbakshi12@gmail.com)  
-📞 +1 778-776-4158  
 
 ## 👋 About Me
 
