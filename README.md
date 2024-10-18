@@ -17,7 +17,7 @@ I'm a passionate Data Engineer with a strong background in computer science and 
 - Contributed to data migration projects including Peets Coffee acquisition of Stumptown Coffee
 - Engaged with cross-functional teams for ETL process development
 
-**Analyst Intern – ASG TECHNOLOGIES** (JAN - MAY, 2023)  
+**Analyst Intern – ASG TECHNOLOGIES** (SEP,2022 - MAY, 2023)  
 - Developed sales KPIs using SQL, Python, and Snowflake
 - Automated data migration processes using Python scripts and Azure Blob storage
 
