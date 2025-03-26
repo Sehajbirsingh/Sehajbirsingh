@@ -24,7 +24,7 @@ I'm a passionate Data Engineer with a strong background in computer science and 
 
 ## 🎓 Education
 
-**B.Tech in Computer Science & Engineering**  
+**Post Grad in Applied AI Solutions**  
 George Brown College, Toronto (2025)  
 
 ## 🏅 Certifications
