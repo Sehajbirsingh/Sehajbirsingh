@@ -25,8 +25,7 @@ I'm a passionate Data Engineer with a strong background in computer science and 
 ## 🎓 Education
 
 **B.Tech in Computer Science & Engineering**  
-Guru Nanak Dev Engineering College, Ludhiana (2019 – 2023)  
-CGPA: 8.38
+George Brown College, Toronto (2025)  
 
 ## 🏅 Certifications
 
@@ -35,10 +34,10 @@ CGPA: 8.38
 
 ## 💡 Skills
 
-- **Programming Languages:** Python
+- **Programming Languages:** Python, SQL
 - **Data Science:** Machine learning, Data analysis, Power BI
 - **Web Development:** HTML, CSS, JavaScript
-- **Cloud Data Engineering:** ETL/ELT processes, Snowflake, Redshift, AWS
+- **Cloud Data Engineering:** ETL/ELT processes, Snowflake, Matillion,Azure, AWS
 
 ## 🎯 Interests
 
