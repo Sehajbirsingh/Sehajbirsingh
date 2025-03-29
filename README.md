@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-I'm a passionate Data Engineer with a strong background in computer science and engineering. I am always seeking innovative and challenging opportunities to contribute towards organizational growth.
+ML& AI enthusiast with a strong background in Data Engineering. I am always seeking innovative and challenging opportunities to contribute towards organizational growth.
 
 ## 💼 Experience
 
